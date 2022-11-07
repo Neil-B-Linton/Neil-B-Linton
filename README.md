@@ -20,7 +20,7 @@
 </div>
 
 ## About Me:
-I am a Front-End Developer with a passion for artistic and intuitice designs for web applications. I've spent the last decade working within the medical sector, implementing processes to ensure patient safety, managing personnel, and building close foundational relationships with clients. When I saw how much I enjoyed the creation of software I knew I could use my medical background to bring efficiency and helpful support to the developer teams and projects that I am a part of. My hope is to construct web builds that maintain a strict policy to ensure usability for everyone. 
+I am a Front-End Developer with a passion for artistic and intuitice designs for web applications. I have an ADN, and for the last decade working within the medical sector, implementing processes to ensure patient safety, managing personnel, and building close foundational relationships with clients. When I saw how much I enjoyed the creation of software I knew I could use my medical background to bring efficiency and helpful support to the developer teams and projects that I am a part of. My focus and drive is to construct web builds that maintain a focus for usability for any user. 
 
 
 <p>

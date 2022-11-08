@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DanielN88&style=flat-square&color=3CD218" alt="Profile view counter"/>
+  <img src="https://komarev.com/ghpvc/?username=Neil-B-Linton&style=flat-square&color=3CD218" alt="Profile view counter"/>
 </div>
 
 ## About Me:

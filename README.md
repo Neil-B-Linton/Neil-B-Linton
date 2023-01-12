@@ -6,14 +6,6 @@
 </h1>
  
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=Neil-B-Linton&show_icons=true&theme=dark&hide_border=true"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neil-B-Linton&layout=compact&theme=dark&hide_border=true"/>
-  </a>
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Neil-B-Linton&style=flat-square&color=3CD218" alt="Profile view counter"/>
